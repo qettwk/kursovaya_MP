@@ -1,0 +1,44 @@
+C:\Users\Администратор\source\repos\Курсовая работа МП\Курсовая работа МП\bin\Debug\Курсовая работа МП.exe.config
+C:\Users\Администратор\source\repos\Курсовая работа МП\Курсовая работа МП\bin\Debug\Курсовая работа МП.exe
+C:\Users\Администратор\source\repos\Курсовая работа МП\Курсовая работа МП\bin\Debug\Курсовая работа МП.pdb
+C:\Users\Администратор\source\repos\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая работа МП.csprojAssemblyReference.cache
+C:\Users\Администратор\source\repos\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая_работа_МП.Properties.Resources.resources
+C:\Users\Администратор\source\repos\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая работа МП.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая работа МП.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая работа МП.exe
+C:\Users\Администратор\source\repos\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая работа МП.pdb
+C:\Users\Администратор\source\repos\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая_работа_МП.Form1.resources
+C:\Users\Администратор\source\repos\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая_работа_МП.Form2.resources
+C:\Users\Администратор\source\repos\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая_работа_МП.Form3.resources
+C:\Users\Администратор\source\repos\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая_работа_МП.Form4.resources
+C:\Users\Администратор\source\repos\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая_работа_МП.Form5.resources
+C:\Users\Администратор\source\repos\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая_работа_МП.Form6.resources
+C:\Users\Кирилл\Desktop\Курсач\Курсовая работа МП\Курсовая работа МП\bin\Debug\Курсовая работа МП.exe.config
+C:\Users\Кирилл\Desktop\Курсач\Курсовая работа МП\Курсовая работа МП\bin\Debug\Курсовая работа МП.exe
+C:\Users\Кирилл\Desktop\Курсач\Курсовая работа МП\Курсовая работа МП\bin\Debug\Курсовая работа МП.pdb
+C:\Users\Кирилл\Desktop\Курсач\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая работа МП.csprojAssemblyReference.cache
+C:\Users\Кирилл\Desktop\Курсач\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая_работа_МП.Form1.resources
+C:\Users\Кирилл\Desktop\Курсач\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая_работа_МП.Form2.resources
+C:\Users\Кирилл\Desktop\Курсач\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая_работа_МП.Form3.resources
+C:\Users\Кирилл\Desktop\Курсач\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая_работа_МП.Form4.resources
+C:\Users\Кирилл\Desktop\Курсач\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая_работа_МП.Form5.resources
+C:\Users\Кирилл\Desktop\Курсач\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая_работа_МП.Form6.resources
+C:\Users\Кирилл\Desktop\Курсач\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая_работа_МП.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\Курсач\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая работа МП.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\Курсач\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая работа МП.exe
+C:\Users\Кирилл\Desktop\Курсач\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая работа МП.pdb
+C:\Users\Юрий\source\repos\Курсовая работа МП\Курсовая работа МП\bin\Debug\Курсовая работа МП.exe.config
+C:\Users\Юрий\source\repos\Курсовая работа МП\Курсовая работа МП\bin\Debug\Курсовая работа МП.exe
+C:\Users\Юрий\source\repos\Курсовая работа МП\Курсовая работа МП\bin\Debug\Курсовая работа МП.pdb
+C:\Users\Юрий\source\repos\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая работа МП.csproj.AssemblyReference.cache
+C:\Users\Юрий\source\repos\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая_работа_МП.Form1.resources
+C:\Users\Юрий\source\repos\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая_работа_МП.Form2.resources
+C:\Users\Юрий\source\repos\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая_работа_МП.Form3.resources
+C:\Users\Юрий\source\repos\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая_работа_МП.Form4.resources
+C:\Users\Юрий\source\repos\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая_работа_МП.Form5.resources
+C:\Users\Юрий\source\repos\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая_работа_МП.Form6.resources
+C:\Users\Юрий\source\repos\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая_работа_МП.Properties.Resources.resources
+C:\Users\Юрий\source\repos\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая работа МП.csproj.GenerateResource.cache
+C:\Users\Юрий\source\repos\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая работа МП.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\source\repos\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая работа МП.exe
+C:\Users\Юрий\source\repos\Курсовая работа МП\Курсовая работа МП\obj\Debug\Курсовая работа МП.pdb
